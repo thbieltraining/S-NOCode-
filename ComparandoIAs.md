@@ -29,14 +29,7 @@ Essas perguntas foram propositalmente escritas de forma informal e com erros par
 ## 🧵 Estrutura do Repositório
 
 * **/images** → imagens usadas no post e no comparativo
-(https://i.ibb.co/8LvfFVdj/image.png)
-(https://i.ibb.co/7dFkGgBD/image.png)
-(https://i.ibb.co/N22dPqDY/image.png)
-(https://i.ibb.co/KzDgfj9L/image.png)
-(https://i.ibb.co/kVcpf5YN/image.png)
-(https://i.ibb.co/spkz2HYJ/image.png)
-(https://i.ibb.co/7x1rzsV6/image.png)
-(https://i.ibb.co/1Jr7cTyw/image.png)
+* https://tinyurl.com/ComparandoIAS
 
 
 * **README.md** → este arquivo
