@@ -29,14 +29,15 @@ Essas perguntas foram propositalmente escritas de forma informal e com erros par
 ## 🧵 Estrutura do Repositório
 
 * **/images** → imagens usadas no post e no comparativo
-https://ibb.co/8LvfFVdj
-https://ibb.co/7dFkGgBD
-https://ibb.co/N22dPqDY
-https://ibb.co/KzDgfj9L
-https://ibb.co/kVcpf5YN
-https://ibb.co/spkz2HYJ
-https://ibb.co/7x1rzsV6
-https://ibb.co/1Jr7cTyw
+![img1](https://i.ibb.co/8LvfFVdj/image.png)
+![img2](https://i.ibb.co/7dFkGgBD/image.png)
+![img3](https://i.ibb.co/N22dPqDY/image.png)
+![img4](https://i.ibb.co/KzDgfj9L/image.png)
+![img5](https://i.ibb.co/kVcpf5YN/image.png)
+![img6](https://i.ibb.co/spkz2HYJ/image.png)
+![img7](https://i.ibb.co/7x1rzsV6/image.png)
+![img8](https://i.ibb.co/1Jr7cTyw/image.png)
+
 * **README.md** → este arquivo
 * **post-linkedin.md** → versão final pronta para postar no LinkedIn
 * **LICENSE** → licença MIT
