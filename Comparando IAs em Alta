@@ -1,66 +1,29 @@
 # 🧠 Comparative Study of Generative AIs
 
-Este projeto apresenta um comparativo informal entre quatro modelos de IA generativa gratuitos, avaliando tempo de resposta, assertividade e experiência geral.
+Projeto: comparativo informal entre quatro modelos de IA generativa gratuitos, avaliando tempo de resposta, assertividade e experiência geral.
 
-## 📌 Modelos Testados
+## Modelos testados
+- Gemini 3 Pro (Gê)
+- ChatGPT 5.1 (ChatGeppetto)
+- DeepSeek 1.5.1 (Chinese Bias)
+- Claude Sonnet 4.5 (Claudinho)
 
-* **Gemini 3 Pro (Gê)**
-* **ChatGPT 5.1 (ChatGeppetto)**
-* **DeepSeek 1.5.1 (Chinese Bias)**
-* **Claude Sonnet 4.5 (Claudinho)**
+## Objetivo
+Documentar um teste prático e informal para entender como cada IA lida com prompts com erros, velocidade de resposta e qualidade das respostas nas versões gratuitas.
 
-## 🎯 Objetivo
-
-O objetivo foi avaliar como cada IA lida com:
-
-* Perguntas com erros propositalmente colocados
-* Assertividade do NLP
-* Tempo de resposta
-* Qualidade geral das respostas nas versões gratuitas
-
-## 🧪 Perguntas Utilizadas
-
+## Perguntas utilizadas (exemplo)
 1. "Você sabe o que sobre a internet hoje? Que ano seu sistema de compreensão está?"
 2. "Me fale sobre a tecnologia no dia de hoje, alguma novidade?"
 
-## 📊 Resultados (Resumo)
+## Estrutura do repositório
+- `/images` — imagens que acompanham o post (imagens para LinkedIn)
+- `post-linkedin.md` — versão final do post para publicar
+- `README.md` — este arquivo
+- `LICENSE` — licença MIT
+- `init-repo.sh` — script para inicializar repositório local (opcional)
 
-### **Gemini 3 Pro (Gê)**
+## Contribuições
+Contribuições são bem-vindas! Abra issues para sugestões de novos testes, modelos ou melhorias no formato do comparativo.
 
-* Respostas completas e atualizadas
-* Integração forte com Web
-* Demorou ~30s a mais
-
-### **ChatGPT 5.1 (Geppetto)**
-
-* Mais equilibrado e direto
-* Excelente experiência geral
-* Sistema *Predictive* cada vez melhor
-
-### **DeepSeek (Chinese Bias)**
-
-* Limitado sem opção de pesquisa marcada
-* Ótimo raciocínio matemático
-
-### **Claude Sonnet (Claudinho)**
-
-* Surpreendentemente preciso
-* Excelente Code Assist
-
-## 🏁 Conclusão
-
-Não existe a "melhor IA": existe a IA que melhor atende ao seu objetivo. Cada uma tem pontos fortes específicos. Este comparativo foi feito de forma casual, com foco em experiência pessoal.
-
-## 📁 Estrutura do Projeto
-
-* `/images` — imagens utilizadas no post
-* `README.md` — documentação principal (este arquivo)
-* `post-linkedin.md` — versão final do post para publicação
-
-## 🚀 Como Contribuir
-
-Sinta-se livre para abrir issues, sugerir testes adicionais ou enviar novos comparativos.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Pode usar, remixar e adaptar livremente.
+## Licença
+MIT — ver arquivo `LICENSE`.
