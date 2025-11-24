@@ -18,4 +18,4 @@ Neste repositório eu só irei colocar projetos *no-code* que venho fazendo ao d
 
 ---
 
-*(Mais projetos serão adicionados em breve...)*
+*(Mais projetos estão sendo adicionados...)*
