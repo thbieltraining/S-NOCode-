@@ -28,8 +28,8 @@ Essas perguntas foram propositalmente escritas de forma informal e com erros par
 
 ## 🧵 Estrutura do Repositório
 
-* **/images** → imagens usadas no post e no comparativo
-* https://tinyurl.com/ComparandoIAS
+* **images** → imagens usadas no post e no comparativo
+  https://tinyurl.com/ComparandoIAS
 
 
 * **README.md** → este arquivo
