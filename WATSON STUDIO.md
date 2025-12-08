@@ -85,6 +85,4 @@ O modelo foi treinado sobre o dataset:
 - ### https://chatgpt.com/share/6936e024-5a50-8001-bdf5-1c5d3f930a8f ( Conversa esclarecedora com o GPT ) 
 
 ```html
-<p align="center">
-  <img src="p20-arima-factsheet.png" width="450" alt="Factsheet do modelo P20 ARIMA">
-</p>
+
