@@ -79,8 +79,8 @@ O modelo foi treinado sobre o dataset:
 
 ---
 
-###**+++**
-- https://dataplatform.cloud.ibm.com/ml-runtime/models/97074642-c9a6-4593-9dca-c7ddc63d8738?project_id=9b347ff7-2df3-4e1b-be4f-eacd1c406bfc&context=wx*
+### **+++**
+- https://dataplatform.cloud.ibm.com/ml-runtime/models/97074642-c9a6-4593-9dca-c7ddc63d8738?project_id=9b347ff7-2df3-4e1b-be4f-eacd1c406bfc&context=wx
 - ### https://drive.google.com/file/d/1xWAAc8mqEvk19rcCIuudFwgmiEavhWaU/view?usp=sharing
 - ### https://chatgpt.com/share/6936e024-5a50-8001-bdf5-1c5d3f930a8f ( Conversa esclarecedora com o GPT ) 
 
