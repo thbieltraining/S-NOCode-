@@ -22,7 +22,7 @@ Neste repositório você encontra um estudo **informal, comparativo e hands-on**
 1. "Você sabe o que sobre a internet hoje? Que ano seu sistema de compreensão está?"
 2. "Me fale sobre a tecnologia no dia de hoje, alguma novidade?"
 
-Essas perguntas foram propositalmente escritas de forma informal e com erros para observar como cada IA lida com ruído.
+Essas perguntas foram propositalmente escritas de forma informal e com erros para observar como cada IA lida com ruído na execução dos NLPs.
 
 ---
 
