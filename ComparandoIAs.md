@@ -29,11 +29,11 @@ Essas perguntas foram propositalmente escritas de forma informal e com erros par
 ## 🧵 Estrutura do Repositório
 
 * **images** → imagens usadas no post e no comparativo
-  https://tinyurl.com/ComparandoIAS
+  https://tinyurl.com/ComparandoIAS ( algumas imagens, foram corrompidas, vou resolver isso )
 
 
 * **README.md** → este arquivo
-* **post-linkedin.md** → versão final pronta para postar no LinkedIn
+* ~**post-linkedin.md** → versão final pronta para postar no LinkedIn~
 * **LICENSE** → licença MIT
 * **init-repo.sh** → script opcional para automatizar setup
 
